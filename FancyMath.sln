@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.34302.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyMath", "FancyMath\FancyMath.csproj", "{80B0B22C-1B0F-4217-844A-4C20F650EF55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing", "Testing\Testing.csproj", "{C2CE1AC5-83C5-49FE-A9E3-D21B69011ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyMath", "FancyMath\FancyMath.csproj", "{3F8E4FF0-7F84-4D28-ADC7-91D4349B2F4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80B0B22C-1B0F-4217-844A-4C20F650EF55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80B0B22C-1B0F-4217-844A-4C20F650EF55}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80B0B22C-1B0F-4217-844A-4C20F650EF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80B0B22C-1B0F-4217-844A-4C20F650EF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CE1AC5-83C5-49FE-A9E3-D21B69011ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CE1AC5-83C5-49FE-A9E3-D21B69011ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CE1AC5-83C5-49FE-A9E3-D21B69011ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CE1AC5-83C5-49FE-A9E3-D21B69011ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F8E4FF0-7F84-4D28-ADC7-91D4349B2F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8E4FF0-7F84-4D28-ADC7-91D4349B2F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8E4FF0-7F84-4D28-ADC7-91D4349B2F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8E4FF0-7F84-4D28-ADC7-91D4349B2F4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
